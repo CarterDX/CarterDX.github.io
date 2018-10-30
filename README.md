@@ -1,1 +1,2 @@
-# Hello world , I am coxiy ！
+#Hello world，我是coxiy！
+照着视频做还是很简单的，就是网页上全是英文，不翻译真看不懂
